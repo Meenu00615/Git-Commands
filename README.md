@@ -3,8 +3,8 @@ In this Repo, I will share the All git commands with the successful output.
 Stay tuned!
 
   -For pushing the general file using Git Bash in WINDOWS 11
-cd ~/OneDrive/Desktop
-cd Hello
+  cd ~/OneDrive/Desktop
+  cd Hello
 git init
 git add dan.txt
 git commit -m "First commit"
